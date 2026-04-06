@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for read only App'
+define service ZCDS_SD_M_1 {
+  expose ZCDS_RAP_M_1;
+}

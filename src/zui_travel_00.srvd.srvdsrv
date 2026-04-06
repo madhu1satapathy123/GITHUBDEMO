@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for read only App for annotation practise'
+define service ZUI_TRAVEL_00 {
+  expose ZC_TRAVEL_RO_MS;
+}
